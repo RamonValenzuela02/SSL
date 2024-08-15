@@ -1,1 +1,2 @@
 provano agregagar un doc a un repocitorio ya armado 
+editando el file desde githib y hacer el pull
